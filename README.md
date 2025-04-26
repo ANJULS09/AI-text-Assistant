@@ -13,7 +13,7 @@ Obtain Your DeepSeek Unique Key:
 
 To use the AI chatbot and text summarization features, you will need a unique key from DeepSeek.
 
-Locate the search authorization section in the chatbot.html file. In this section, you will see a comment that says:
+Search authorization text in the chatbot.html file ,  you will see a comment that says:
 "Type your key here."
 Paste your DeepSeek unique key in that section.
 
